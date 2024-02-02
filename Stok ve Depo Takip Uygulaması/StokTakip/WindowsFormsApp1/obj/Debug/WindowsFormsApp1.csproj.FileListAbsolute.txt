@@ -1,0 +1,132 @@
+C:\Users\user\Desktop\Stok ve Depo Takip Uygulaması\StokTakip\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Stok ve Depo Takip Uygulaması\StokTakip\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\user\Desktop\Stok ve Depo Takip Uygulaması\StokTakip\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Stok ve Depo Takip Uygulaması\StokTakip\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.licenses
+C:\Users\user\Desktop\Stok ve Depo Takip Uygulaması\StokTakip\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Stok ve Depo Takip Uygulaması\StokTakip\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\user\Desktop\Stok ve Depo Takip Uygulaması\StokTakip\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\user\Desktop\Stok ve Depo Takip Uygulaması\StokTakip\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\user\Desktop\Stok ve Depo Takip Uygulaması\StokTakip\WindowsFormsApp1\bin\Debug\DevExpress.Data.Desktop.v23.2.dll
+C:\Users\user\Desktop\Stok ve Depo Takip Uygulaması\StokTakip\WindowsFormsApp1\bin\Debug\DevExpress.Data.v23.2.dll
+C:\Users\user\Desktop\Stok ve Depo Takip Uygulaması\StokTakip\WindowsFormsApp1\bin\Debug\DevExpress.Drawing.v23.2.dll
+C:\Users\user\Desktop\Stok ve Depo Takip Uygulaması\StokTakip\WindowsFormsApp1\bin\Debug\DevExpress.Printing.v23.2.Core.dll
+C:\Users\user\Desktop\Stok ve Depo Takip Uygulaması\StokTakip\WindowsFormsApp1\bin\Debug\DevExpress.Utils.v23.2.dll
+C:\Users\user\Desktop\Stok ve Depo Takip Uygulaması\StokTakip\WindowsFormsApp1\bin\Debug\DevExpress.XtraBars.v23.2.dll
+C:\Users\user\Desktop\Stok ve Depo Takip Uygulaması\StokTakip\WindowsFormsApp1\bin\Debug\DevExpress.XtraEditors.v23.2.dll
+C:\Users\user\Desktop\Stok ve Depo Takip Uygulaması\StokTakip\WindowsFormsApp1\bin\Debug\DevExpress.XtraGrid.v23.2.dll
+C:\Users\user\Desktop\Stok ve Depo Takip Uygulaması\StokTakip\WindowsFormsApp1\bin\Debug\DevExpress.XtraLayout.v23.2.dll
+C:\Users\user\Desktop\Stok ve Depo Takip Uygulaması\StokTakip\WindowsFormsApp1\bin\Debug\DevExpress.XtraPrinting.v23.2.dll
+C:\Users\user\Desktop\Stok ve Depo Takip Uygulaması\StokTakip\WindowsFormsApp1\bin\Debug\DevExpress.Pdf.v23.2.Core.dll
+C:\Users\user\Desktop\Stok ve Depo Takip Uygulaması\StokTakip\WindowsFormsApp1\bin\Debug\DevExpress.Pdf.v23.2.Drawing.dll
+C:\Users\user\Desktop\Stok ve Depo Takip Uygulaması\StokTakip\WindowsFormsApp1\bin\Debug\DevExpress.Sparkline.v23.2.Core.dll
+C:\Users\user\Desktop\Stok ve Depo Takip Uygulaması\StokTakip\WindowsFormsApp1\bin\Debug\DevExpress.RichEdit.v23.2.Core.dll
+C:\Users\user\Desktop\Stok ve Depo Takip Uygulaması\StokTakip\WindowsFormsApp1\bin\Debug\DevExpress.XtraTreeList.v23.2.dll
+C:\Users\user\Desktop\Stok ve Depo Takip Uygulaması\StokTakip\WindowsFormsApp1\bin\Debug\DevExpress.Office.v23.2.Core.dll
+C:\Users\user\Desktop\Stok ve Depo Takip Uygulaması\StokTakip\WindowsFormsApp1\bin\Debug\DevExpress.Data.Desktop.v23.2.xml
+C:\Users\user\Desktop\Stok ve Depo Takip Uygulaması\StokTakip\WindowsFormsApp1\bin\Debug\DevExpress.Data.v23.2.xml
+C:\Users\user\Desktop\Stok ve Depo Takip Uygulaması\StokTakip\WindowsFormsApp1\bin\Debug\DevExpress.Drawing.v23.2.xml
+C:\Users\user\Desktop\Stok ve Depo Takip Uygulaması\StokTakip\WindowsFormsApp1\bin\Debug\DevExpress.Printing.v23.2.Core.xml
+C:\Users\user\Desktop\Stok ve Depo Takip Uygulaması\StokTakip\WindowsFormsApp1\bin\Debug\DevExpress.Utils.v23.2.xml
+C:\Users\user\Desktop\Stok ve Depo Takip Uygulaması\StokTakip\WindowsFormsApp1\bin\Debug\DevExpress.XtraBars.v23.2.xml
+C:\Users\user\Desktop\Stok ve Depo Takip Uygulaması\StokTakip\WindowsFormsApp1\bin\Debug\DevExpress.XtraEditors.v23.2.xml
+C:\Users\user\Desktop\Stok ve Depo Takip Uygulaması\StokTakip\WindowsFormsApp1\bin\Debug\DevExpress.XtraGrid.v23.2.xml
+C:\Users\user\Desktop\Stok ve Depo Takip Uygulaması\StokTakip\WindowsFormsApp1\bin\Debug\DevExpress.XtraLayout.v23.2.xml
+C:\Users\user\Desktop\Stok ve Depo Takip Uygulaması\StokTakip\WindowsFormsApp1\bin\Debug\DevExpress.XtraPrinting.v23.2.xml
+C:\Users\user\Desktop\Stok ve Depo Takip Uygulaması\StokTakip\WindowsFormsApp1\bin\Debug\DevExpress.Pdf.v23.2.Core.xml
+C:\Users\user\Desktop\Stok ve Depo Takip Uygulaması\StokTakip\WindowsFormsApp1\bin\Debug\DevExpress.Pdf.v23.2.Drawing.xml
+C:\Users\user\Desktop\Stok ve Depo Takip Uygulaması\StokTakip\WindowsFormsApp1\bin\Debug\DevExpress.Sparkline.v23.2.Core.xml
+C:\Users\user\Desktop\Stok ve Depo Takip Uygulaması\StokTakip\WindowsFormsApp1\bin\Debug\DevExpress.RichEdit.v23.2.Core.xml
+C:\Users\user\Desktop\Stok ve Depo Takip Uygulaması\StokTakip\WindowsFormsApp1\bin\Debug\DevExpress.XtraTreeList.v23.2.xml
+C:\Users\user\Desktop\Stok ve Depo Takip Uygulaması\StokTakip\WindowsFormsApp1\bin\Debug\DevExpress.Office.v23.2.Core.xml
+C:\Users\user\Desktop\Stok ve Depo Takip Uygulaması\StokTakip\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\user\Desktop\Stok ve Depo Takip Uygulaması\StokTakip\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\user\Desktop\Stok ve Depo Takip Uygulaması\StokTakip\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\user\Desktop\Stok ve Depo Takip Uygulaması\StokTakip\WindowsFormsApp1\bin\Debug\DevExpress.XtraNavBar.v23.2.dll
+C:\Users\user\Desktop\Stok ve Depo Takip Uygulaması\StokTakip\WindowsFormsApp1\bin\Debug\DevExpress.XtraNavBar.v23.2.xml
+C:\Users\user\Desktop\Stok ve Depo Takip Uygulaması\StokTakip\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UrunEkle.resources
+C:\Users\user\Desktop\Stok ve Depo Takip Uygulaması (2)\Stok ve Depo Takip Uygulaması\StokTakip\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\user\Desktop\Stok ve Depo Takip Uygulaması (2)\Stok ve Depo Takip Uygulaması\StokTakip\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\user\Desktop\Stok ve Depo Takip Uygulaması (2)\Stok ve Depo Takip Uygulaması\StokTakip\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\user\Desktop\Stok ve Depo Takip Uygulaması (2)\Stok ve Depo Takip Uygulaması\StokTakip\WindowsFormsApp1\bin\Debug\DevExpress.Data.Desktop.v23.2.dll
+C:\Users\user\Desktop\Stok ve Depo Takip Uygulaması (2)\Stok ve Depo Takip Uygulaması\StokTakip\WindowsFormsApp1\bin\Debug\DevExpress.Data.v23.2.dll
+C:\Users\user\Desktop\Stok ve Depo Takip Uygulaması (2)\Stok ve Depo Takip Uygulaması\StokTakip\WindowsFormsApp1\bin\Debug\DevExpress.Drawing.v23.2.dll
+C:\Users\user\Desktop\Stok ve Depo Takip Uygulaması (2)\Stok ve Depo Takip Uygulaması\StokTakip\WindowsFormsApp1\bin\Debug\DevExpress.Printing.v23.2.Core.dll
+C:\Users\user\Desktop\Stok ve Depo Takip Uygulaması (2)\Stok ve Depo Takip Uygulaması\StokTakip\WindowsFormsApp1\bin\Debug\DevExpress.Utils.v23.2.dll
+C:\Users\user\Desktop\Stok ve Depo Takip Uygulaması (2)\Stok ve Depo Takip Uygulaması\StokTakip\WindowsFormsApp1\bin\Debug\DevExpress.XtraBars.v23.2.dll
+C:\Users\user\Desktop\Stok ve Depo Takip Uygulaması (2)\Stok ve Depo Takip Uygulaması\StokTakip\WindowsFormsApp1\bin\Debug\DevExpress.XtraEditors.v23.2.dll
+C:\Users\user\Desktop\Stok ve Depo Takip Uygulaması (2)\Stok ve Depo Takip Uygulaması\StokTakip\WindowsFormsApp1\bin\Debug\DevExpress.XtraGrid.v23.2.dll
+C:\Users\user\Desktop\Stok ve Depo Takip Uygulaması (2)\Stok ve Depo Takip Uygulaması\StokTakip\WindowsFormsApp1\bin\Debug\DevExpress.XtraLayout.v23.2.dll
+C:\Users\user\Desktop\Stok ve Depo Takip Uygulaması (2)\Stok ve Depo Takip Uygulaması\StokTakip\WindowsFormsApp1\bin\Debug\DevExpress.XtraNavBar.v23.2.dll
+C:\Users\user\Desktop\Stok ve Depo Takip Uygulaması (2)\Stok ve Depo Takip Uygulaması\StokTakip\WindowsFormsApp1\bin\Debug\DevExpress.XtraPrinting.v23.2.dll
+C:\Users\user\Desktop\Stok ve Depo Takip Uygulaması (2)\Stok ve Depo Takip Uygulaması\StokTakip\WindowsFormsApp1\bin\Debug\DevExpress.Pdf.v23.2.Core.dll
+C:\Users\user\Desktop\Stok ve Depo Takip Uygulaması (2)\Stok ve Depo Takip Uygulaması\StokTakip\WindowsFormsApp1\bin\Debug\DevExpress.Pdf.v23.2.Drawing.dll
+C:\Users\user\Desktop\Stok ve Depo Takip Uygulaması (2)\Stok ve Depo Takip Uygulaması\StokTakip\WindowsFormsApp1\bin\Debug\DevExpress.Sparkline.v23.2.Core.dll
+C:\Users\user\Desktop\Stok ve Depo Takip Uygulaması (2)\Stok ve Depo Takip Uygulaması\StokTakip\WindowsFormsApp1\bin\Debug\DevExpress.RichEdit.v23.2.Core.dll
+C:\Users\user\Desktop\Stok ve Depo Takip Uygulaması (2)\Stok ve Depo Takip Uygulaması\StokTakip\WindowsFormsApp1\bin\Debug\DevExpress.XtraTreeList.v23.2.dll
+C:\Users\user\Desktop\Stok ve Depo Takip Uygulaması (2)\Stok ve Depo Takip Uygulaması\StokTakip\WindowsFormsApp1\bin\Debug\DevExpress.Office.v23.2.Core.dll
+C:\Users\user\Desktop\Stok ve Depo Takip Uygulaması (2)\Stok ve Depo Takip Uygulaması\StokTakip\WindowsFormsApp1\bin\Debug\DevExpress.Data.Desktop.v23.2.xml
+C:\Users\user\Desktop\Stok ve Depo Takip Uygulaması (2)\Stok ve Depo Takip Uygulaması\StokTakip\WindowsFormsApp1\bin\Debug\DevExpress.Data.v23.2.xml
+C:\Users\user\Desktop\Stok ve Depo Takip Uygulaması (2)\Stok ve Depo Takip Uygulaması\StokTakip\WindowsFormsApp1\bin\Debug\DevExpress.Drawing.v23.2.xml
+C:\Users\user\Desktop\Stok ve Depo Takip Uygulaması (2)\Stok ve Depo Takip Uygulaması\StokTakip\WindowsFormsApp1\bin\Debug\DevExpress.Printing.v23.2.Core.xml
+C:\Users\user\Desktop\Stok ve Depo Takip Uygulaması (2)\Stok ve Depo Takip Uygulaması\StokTakip\WindowsFormsApp1\bin\Debug\DevExpress.Utils.v23.2.xml
+C:\Users\user\Desktop\Stok ve Depo Takip Uygulaması (2)\Stok ve Depo Takip Uygulaması\StokTakip\WindowsFormsApp1\bin\Debug\DevExpress.XtraBars.v23.2.xml
+C:\Users\user\Desktop\Stok ve Depo Takip Uygulaması (2)\Stok ve Depo Takip Uygulaması\StokTakip\WindowsFormsApp1\bin\Debug\DevExpress.XtraEditors.v23.2.xml
+C:\Users\user\Desktop\Stok ve Depo Takip Uygulaması (2)\Stok ve Depo Takip Uygulaması\StokTakip\WindowsFormsApp1\bin\Debug\DevExpress.XtraGrid.v23.2.xml
+C:\Users\user\Desktop\Stok ve Depo Takip Uygulaması (2)\Stok ve Depo Takip Uygulaması\StokTakip\WindowsFormsApp1\bin\Debug\DevExpress.XtraLayout.v23.2.xml
+C:\Users\user\Desktop\Stok ve Depo Takip Uygulaması (2)\Stok ve Depo Takip Uygulaması\StokTakip\WindowsFormsApp1\bin\Debug\DevExpress.XtraNavBar.v23.2.xml
+C:\Users\user\Desktop\Stok ve Depo Takip Uygulaması (2)\Stok ve Depo Takip Uygulaması\StokTakip\WindowsFormsApp1\bin\Debug\DevExpress.XtraPrinting.v23.2.xml
+C:\Users\user\Desktop\Stok ve Depo Takip Uygulaması (2)\Stok ve Depo Takip Uygulaması\StokTakip\WindowsFormsApp1\bin\Debug\DevExpress.Pdf.v23.2.Core.xml
+C:\Users\user\Desktop\Stok ve Depo Takip Uygulaması (2)\Stok ve Depo Takip Uygulaması\StokTakip\WindowsFormsApp1\bin\Debug\DevExpress.Pdf.v23.2.Drawing.xml
+C:\Users\user\Desktop\Stok ve Depo Takip Uygulaması (2)\Stok ve Depo Takip Uygulaması\StokTakip\WindowsFormsApp1\bin\Debug\DevExpress.Sparkline.v23.2.Core.xml
+C:\Users\user\Desktop\Stok ve Depo Takip Uygulaması (2)\Stok ve Depo Takip Uygulaması\StokTakip\WindowsFormsApp1\bin\Debug\DevExpress.RichEdit.v23.2.Core.xml
+C:\Users\user\Desktop\Stok ve Depo Takip Uygulaması (2)\Stok ve Depo Takip Uygulaması\StokTakip\WindowsFormsApp1\bin\Debug\DevExpress.XtraTreeList.v23.2.xml
+C:\Users\user\Desktop\Stok ve Depo Takip Uygulaması (2)\Stok ve Depo Takip Uygulaması\StokTakip\WindowsFormsApp1\bin\Debug\DevExpress.Office.v23.2.Core.xml
+C:\Users\user\Desktop\Stok ve Depo Takip Uygulaması (2)\Stok ve Depo Takip Uygulaması\StokTakip\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Stok ve Depo Takip Uygulaması (2)\Stok ve Depo Takip Uygulaması\StokTakip\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\user\Desktop\Stok ve Depo Takip Uygulaması (2)\Stok ve Depo Takip Uygulaması\StokTakip\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.RibbonForm1.resources
+C:\Users\user\Desktop\Stok ve Depo Takip Uygulaması (2)\Stok ve Depo Takip Uygulaması\StokTakip\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UrunEkle.resources
+C:\Users\user\Desktop\Stok ve Depo Takip Uygulaması (2)\Stok ve Depo Takip Uygulaması\StokTakip\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Stok ve Depo Takip Uygulaması (2)\Stok ve Depo Takip Uygulaması\StokTakip\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.licenses
+C:\Users\user\Desktop\Stok ve Depo Takip Uygulaması (2)\Stok ve Depo Takip Uygulaması\StokTakip\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Stok ve Depo Takip Uygulaması (2)\Stok ve Depo Takip Uygulaması\StokTakip\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\user\Desktop\Stok ve Depo Takip Uygulaması (2)\Stok ve Depo Takip Uygulaması\StokTakip\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\user\Desktop\Stok ve Depo Takip Uygulaması (2)\Stok ve Depo Takip Uygulaması\StokTakip\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\user\Desktop\Stok ve Depo Takip Uygulaması\StokTakip\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MainForm.resources
+C:\Users\user\Desktop\Stok ve Depo Takip Uygulaması\StokTakip\WindowsFormsApp1\bin\Debug\DevExpress.Charts.v23.2.Core.dll
+C:\Users\user\Desktop\Stok ve Depo Takip Uygulaması\StokTakip\WindowsFormsApp1\bin\Debug\DevExpress.CodeParser.v23.2.dll
+C:\Users\user\Desktop\Stok ve Depo Takip Uygulaması\StokTakip\WindowsFormsApp1\bin\Debug\DevExpress.DataAccess.v23.2.dll
+C:\Users\user\Desktop\Stok ve Depo Takip Uygulaması\StokTakip\WindowsFormsApp1\bin\Debug\DevExpress.PivotGrid.v23.2.Core.dll
+C:\Users\user\Desktop\Stok ve Depo Takip Uygulaması\StokTakip\WindowsFormsApp1\bin\Debug\DevExpress.RichEdit.v23.2.Export.dll
+C:\Users\user\Desktop\Stok ve Depo Takip Uygulaması\StokTakip\WindowsFormsApp1\bin\Debug\DevExpress.Utils.v23.2.UI.dll
+C:\Users\user\Desktop\Stok ve Depo Takip Uygulaması\StokTakip\WindowsFormsApp1\bin\Debug\DevExpress.Xpo.v23.2.dll
+C:\Users\user\Desktop\Stok ve Depo Takip Uygulaması\StokTakip\WindowsFormsApp1\bin\Debug\DevExpress.XtraCharts.v23.2.dll
+C:\Users\user\Desktop\Stok ve Depo Takip Uygulaması\StokTakip\WindowsFormsApp1\bin\Debug\DevExpress.XtraGauges.v23.2.Core.dll
+C:\Users\user\Desktop\Stok ve Depo Takip Uygulaması\StokTakip\WindowsFormsApp1\bin\Debug\DevExpress.XtraReports.v23.2.dll
+C:\Users\user\Desktop\Stok ve Depo Takip Uygulaması\StokTakip\WindowsFormsApp1\bin\Debug\DevExpress.XtraReports.v23.2.Extensions.dll
+C:\Users\user\Desktop\Stok ve Depo Takip Uygulaması\StokTakip\WindowsFormsApp1\bin\Debug\DevExpress.XtraRichEdit.v23.2.dll
+C:\Users\user\Desktop\Stok ve Depo Takip Uygulaması\StokTakip\WindowsFormsApp1\bin\Debug\DevExpress.XtraVerticalGrid.v23.2.dll
+C:\Users\user\Desktop\Stok ve Depo Takip Uygulaması\StokTakip\WindowsFormsApp1\bin\Debug\DevExpress.DataVisualization.v23.2.Core.dll
+C:\Users\user\Desktop\Stok ve Depo Takip Uygulaması\StokTakip\WindowsFormsApp1\bin\Debug\DevExpress.DataAccess.v23.2.UI.dll
+C:\Users\user\Desktop\Stok ve Depo Takip Uygulaması\StokTakip\WindowsFormsApp1\bin\Debug\DevExpress.XtraCharts.v23.2.Wizard.dll
+C:\Users\user\Desktop\Stok ve Depo Takip Uygulaması\StokTakip\WindowsFormsApp1\bin\Debug\DevExpress.XtraPivotGrid.v23.2.dll
+C:\Users\user\Desktop\Stok ve Depo Takip Uygulaması\StokTakip\WindowsFormsApp1\bin\Debug\DevExpress.XtraCharts.v23.2.Extensions.dll
+C:\Users\user\Desktop\Stok ve Depo Takip Uygulaması\StokTakip\WindowsFormsApp1\bin\Debug\DevExpress.Images.v23.2.dll
+C:\Users\user\Desktop\Stok ve Depo Takip Uygulaması\StokTakip\WindowsFormsApp1\bin\Debug\DevExpress.XtraDiagram.v23.2.dll
+C:\Users\user\Desktop\Stok ve Depo Takip Uygulaması\StokTakip\WindowsFormsApp1\bin\Debug\DevExpress.Diagram.v23.2.Core.dll
+C:\Users\user\Desktop\Stok ve Depo Takip Uygulaması\StokTakip\WindowsFormsApp1\bin\Debug\DevExpress.Charts.v23.2.Core.xml
+C:\Users\user\Desktop\Stok ve Depo Takip Uygulaması\StokTakip\WindowsFormsApp1\bin\Debug\DevExpress.DataAccess.v23.2.xml
+C:\Users\user\Desktop\Stok ve Depo Takip Uygulaması\StokTakip\WindowsFormsApp1\bin\Debug\DevExpress.PivotGrid.v23.2.Core.xml
+C:\Users\user\Desktop\Stok ve Depo Takip Uygulaması\StokTakip\WindowsFormsApp1\bin\Debug\DevExpress.Utils.v23.2.UI.xml
+C:\Users\user\Desktop\Stok ve Depo Takip Uygulaması\StokTakip\WindowsFormsApp1\bin\Debug\DevExpress.Xpo.v23.2.xml
+C:\Users\user\Desktop\Stok ve Depo Takip Uygulaması\StokTakip\WindowsFormsApp1\bin\Debug\DevExpress.XtraCharts.v23.2.xml
+C:\Users\user\Desktop\Stok ve Depo Takip Uygulaması\StokTakip\WindowsFormsApp1\bin\Debug\DevExpress.XtraGauges.v23.2.Core.xml
+C:\Users\user\Desktop\Stok ve Depo Takip Uygulaması\StokTakip\WindowsFormsApp1\bin\Debug\DevExpress.XtraReports.v23.2.xml
+C:\Users\user\Desktop\Stok ve Depo Takip Uygulaması\StokTakip\WindowsFormsApp1\bin\Debug\DevExpress.XtraReports.v23.2.Extensions.xml
+C:\Users\user\Desktop\Stok ve Depo Takip Uygulaması\StokTakip\WindowsFormsApp1\bin\Debug\DevExpress.XtraRichEdit.v23.2.xml
+C:\Users\user\Desktop\Stok ve Depo Takip Uygulaması\StokTakip\WindowsFormsApp1\bin\Debug\DevExpress.XtraVerticalGrid.v23.2.xml
+C:\Users\user\Desktop\Stok ve Depo Takip Uygulaması\StokTakip\WindowsFormsApp1\bin\Debug\DevExpress.DataAccess.v23.2.UI.xml
+C:\Users\user\Desktop\Stok ve Depo Takip Uygulaması\StokTakip\WindowsFormsApp1\bin\Debug\DevExpress.XtraCharts.v23.2.Wizard.xml
+C:\Users\user\Desktop\Stok ve Depo Takip Uygulaması\StokTakip\WindowsFormsApp1\bin\Debug\DevExpress.XtraPivotGrid.v23.2.xml
+C:\Users\user\Desktop\Stok ve Depo Takip Uygulaması\StokTakip\WindowsFormsApp1\bin\Debug\DevExpress.XtraDiagram.v23.2.xml
+C:\Users\user\Desktop\Stok ve Depo Takip Uygulaması\StokTakip\WindowsFormsApp1\bin\Debug\DevExpress.Diagram.v23.2.Core.xml
+C:\Users\user\Desktop\Stok ve Depo Takip Uygulaması\StokTakip\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.XtraReport1.resources
